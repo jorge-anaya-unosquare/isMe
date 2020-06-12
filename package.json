@@ -4,7 +4,7 @@
   "description": "isMe function",
   "main": "index.js",
   "scripts": {
-    "test": "jest *.js",
+    "test": "jest",
     "lint": "eslint *.js",
     "lint:fix": "eslint --fix *.js"
   },
